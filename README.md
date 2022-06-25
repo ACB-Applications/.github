@@ -1,2 +1,2 @@
 # .github
-Special repository for the application of README.md that introduces the organization.
+Special repository to store the organization's instruction and presentation files for the public.
